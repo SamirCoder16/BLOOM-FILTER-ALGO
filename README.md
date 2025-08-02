@@ -3,57 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Bloom Filter Algorithm - Documentation</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      line-height: 1.7;
-      margin: 40px auto;
-      max-width: 900px;
-      color: #333;
-      background-color: #f9f9f9;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 16px;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin: 20px 0;
-    }
-    table, th, td {
-      border: 1px solid #ddd;
-      padding: 12px;
-      text-align: left;
-    }
-    th {
-      background-color: #f0f0f0;
-    }
-    .tag {
-      background-color: #e0e0e0;
-      padding: 3px 6px;
-      border-radius: 4px;
-      font-size: 0.9em;
-    }
-    .highlight {
-      background-color: #fff3cd;
-      padding: 8px;
-      border-left: 4px solid #ffecb5;
-    }
-  </style>
 </head>
 <body>
 
